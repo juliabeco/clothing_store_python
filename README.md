@@ -109,7 +109,7 @@ view_customer_purchases("Alice")
 👩‍💻 **Author**
 
 Project by Julia Becaria Coquet  
-🌐 [LinkedIn](https://www.linkedin.com/in/juliabecaria/)
+🌐 [LinkedIn](https://www.linkedin.com/in/julia-becaria-coquet/)
 
 
 ![Python](https://img.shields.io/badge/Python-3.7+-blue)
